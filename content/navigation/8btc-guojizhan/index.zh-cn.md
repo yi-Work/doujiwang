@@ -2,8 +2,8 @@
 weight: 
 title: "8BTC 国际站"
 description: "8BTC国际站是中国与国外区块链发展的桥梁"
-date: 2022-03-25T21:57:40+08:00
-lastmod: 2022-03-25T16:45:40+08:00
+date: 2022-07-06T08:47:36+08:00
+lastmod: 2022-07-06T08:47:36+08:00
 draft: false
 authors: ["浮尘"]
 featuredImage: "8btc-guojizhan.jpg"
